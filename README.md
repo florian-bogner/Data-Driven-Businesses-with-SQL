@@ -10,7 +10,7 @@ We looked into the [Data](https://github.com/huschpuscheli/Magist_colab/blob/mai
 
 To get a basic understanding of the relation of the schema you can either look at the [PDF](https://github.com/huschpuscheli/Magist_colab/blob/main/data/magist_schema.pdf) or the [MySQL schema](https://github.com/huschpuscheli/Magist_colab/blob/main/data/magist_schema.mwb).
 
-To get a basic understanding of the Magist marketplace, we checked
+In the [Big picture script](https://github.com/huschpuscheli/Magist_colab/blob/main/scripts/Big%20picture.sql, we checked
 1. how many orders were placed in the given time frame
 2. how many orders are delivered
 3. whether Magist has user growth
@@ -19,3 +19,4 @@ To get a basic understanding of the Magist marketplace, we checked
 6. whether all products offered were actually part of an order
 7. what the price ranges of products are
 8. what the price ranges of order payments are
+to get a basic understanding of the Magist marketplace.
