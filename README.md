@@ -11,19 +11,26 @@ We looked into the [Data](https://github.com/huschpuscheli/Magist_colab/blob/mai
 To get a basic understanding of the relation of the schema you can either look at the [PDF](https://github.com/huschpuscheli/Magist_colab/blob/main/data/magist_schema.pdf) or the [MySQL schema](https://github.com/huschpuscheli/Magist_colab/blob/main/data/magist_schema.mwb).
 
 In the [Big picture script](https://github.com/huschpuscheli/Magist_colab/blob/main/scripts/Big%20picture.sql), we checked
-1. how many orders were placed in the given time frame
-2. how many orders are delivered
-3. whether Magist has user growth
-4. what Magist's product range ist
-5. what the product categories are that are sold on Magist
-6. whether all products offered were actually part of an order
-7. what the price ranges of products are
-8. what the price ranges of order payments are
+1. how many orders were placed and ordered in the given time frame,
+2. whether Magist has user growth,
+3. what Magist's product range and product categories are,
+4. whether all products offered were actually part of an order and
+5. what the price ranges of products and order payments are
 to get a basic understanding of the Magist marketplace.
 
 After that, we dove deeper into the data in order to answer to questions:
 - Is Magist a good fit for high-end tech products?
+	1. What categories of tech products does Magist have?
+	2. How many products of these tech categories have been sold (within the time window of the database snapshot)? What percentage does that represent from the overall number of products sold?
+	3. What’s the average price of the products being sold?
+	4. Are expensive tech products popular?
+	5. How many sellers are there?
+	6. What’s the average monthly revenue of Magist’s sellers?
+	7. What’s the average revenue of sellers that sell tech products?
 - Are orders delivered on time?
+	8. What’s the average time between the order being placed and the product being delivered?
+	9. How many orders are delivered on time vs orders delivered with a delay?
+	10. Is there any pattern for delayed orders, e.g. big products being delayed more often?
 
 ## Results
 Our results are shown in our [Presentation](https://github.com/huschpuscheli/Magist_colab/blob/main/presentation/Magist%20-%20Is%20it%20a%20good%20partner%20for%20Eniac%3F.pptx).
