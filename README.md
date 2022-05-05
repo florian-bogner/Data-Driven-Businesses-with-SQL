@@ -26,7 +26,7 @@ After that, we dove deeper into the data in order to answer to questions:
 - Are orders delivered on time?
 
 ## Results
-Our results are shown in our [Presentation](https://github.com/huschpuscheli/Magist_colab/blob/main/presentation/Magist%20-%20Is%20it%20a%20good%20partner%20for%20Eniac%3F.pptx)
+Our results are shown in our [Presentation](https://github.com/huschpuscheli/Magist_colab/blob/main/presentation/Magist%20-%20Is%20it%20a%20good%20partner%20for%20Eniac%3F.pptx).
 
 ## Conclusion
 We cannot recommend Magist as an online marketplace for Eniacs business expansion in Brazil.
