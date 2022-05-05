@@ -20,3 +20,13 @@ In the [Big picture script](https://github.com/huschpuscheli/Magist_colab/blob/m
 7. what the price ranges of products are
 8. what the price ranges of order payments are
 to get a basic understanding of the Magist marketplace.
+
+After that, we dove deeper into the data in order to answer to questions:
+- Is Magist a good fit for high-end tech products?
+- Are orders delivered on time?
+
+## Results
+
+Our results are shown in our [Presentation]()
+
+## Conclusion
