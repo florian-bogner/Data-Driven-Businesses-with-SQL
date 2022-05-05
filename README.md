@@ -10,7 +10,7 @@ We looked into the [Data](https://github.com/huschpuscheli/Magist_colab/blob/mai
 
 To get a basic understanding of the relation of the schema you can either look at the [PDF](https://github.com/huschpuscheli/Magist_colab/blob/main/data/magist_schema.pdf) or the [MySQL schema](https://github.com/huschpuscheli/Magist_colab/blob/main/data/magist_schema.mwb).
 
-In the [Big picture script](https://github.com/huschpuscheli/Magist_colab/blob/main/scripts/Big%20picture.sql, we checked
+In the [Big picture script](https://github.com/huschpuscheli/Magist_colab/blob/main/scripts/Big%20picture.sql), we checked
 1. how many orders were placed in the given time frame
 2. how many orders are delivered
 3. whether Magist has user growth
@@ -26,7 +26,7 @@ After that, we dove deeper into the data in order to answer to questions:
 - Are orders delivered on time?
 
 ## Results
-
-Our results are shown in our [Presentation]()
+Our results are shown in our [Presentation](https://github.com/huschpuscheli/Magist_colab/blob/main/presentation/Magist%20-%20Is%20it%20a%20good%20partner%20for%20Eniac%3F.pptx)
 
 ## Conclusion
+We cannot recommend Magist as an online marketplace for Eniacs business expansion in Brazil.
