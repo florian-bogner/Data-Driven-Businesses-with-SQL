@@ -28,9 +28,9 @@ After that, we dove deeper into the data in order to answer to questions:
 	6. What’s the average monthly revenue of Magist’s sellers?
 	7. What’s the average revenue of sellers that sell tech products?
 - Are orders delivered on time?
-	8. What’s the average time between the order being placed and the product being delivered?
-	9. How many orders are delivered on time vs orders delivered with a delay?
-	10. Is there any pattern for delayed orders, e.g. big products being delayed more often?
+	1. What’s the average time between the order being placed and the product being delivered?
+	2. How many orders are delivered on time vs orders delivered with a delay?
+	3. Is there any pattern for delayed orders, e.g. big products being delayed more often?
 
 ## Results
 Our results are shown in our [Presentation](https://github.com/huschpuscheli/Magist_colab/blob/main/presentation/Magist%20-%20Is%20it%20a%20good%20partner%20for%20Eniac%3F.pptx).
